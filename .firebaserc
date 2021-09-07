@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-e472a": {
+      "hosting": {
+        "gotyApp": [
+          "firestore-grafica-e472a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-e472a"
+  }
+}
